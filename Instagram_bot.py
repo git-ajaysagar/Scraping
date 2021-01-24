@@ -1,4 +1,4 @@
-#The following program downlaods the list of followers of any instagram user (except private accounts which the person, using this program, is not following).
+#The following program downlaods the list of followers of any instagram user (except unfollowed private accounts).
 #It can be modified to download list of 'followings' also. It has imported user credentials from a separate file called 'userpass.py'. One can mention 
 #those things directly in this program itself.
 
